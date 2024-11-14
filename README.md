@@ -17,3 +17,4 @@ https://colab.research.google.com/drive/1uBHFqNbHbk2tAu_VJd3yM7xstH7mYdb8?usp=sh
 https://colab.research.google.com/drive/1akm5yiAmPyf31ubiKwOjDn-0YIpL-aNH?usp=sharing
 
 ## Video
+https://youtu.be/wP73uhpw5cA
